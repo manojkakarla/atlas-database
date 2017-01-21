@@ -1,0 +1,3 @@
+mongo:
+  uri: mongodb://localhost:27017/?maxPoolSize=50&maxIdleTimeMS=300000
+  dbName: test
